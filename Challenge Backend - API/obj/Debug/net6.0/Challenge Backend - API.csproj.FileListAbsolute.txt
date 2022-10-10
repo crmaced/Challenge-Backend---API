@@ -1,0 +1,37 @@
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\appsettings.json
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Challenge Backend - API.exe
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Challenge Backend - API.deps.json
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Challenge Backend - API.runtimeconfig.json
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Challenge Backend - API.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Challenge Backend - API.pdb
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\Challenge Backend - API.csproj.AssemblyReference.cache
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\Challenge Backend - API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\Challenge Backend - API.AssemblyInfoInputs.cache
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\Challenge Backend - API.AssemblyInfo.cs
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\Challenge Backend - API.csproj.CoreCompileInputs.cache
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\Challenge Backend - API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\Challenge Backend - API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\scopedcss\bundle\Challenge Backend - API.styles.css
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\Challenge Backend - API.csproj.CopyComplete
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\Challenge Backend - API.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\refint\Challenge Backend - API.dll
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\Challenge Backend - API.pdb
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\Challenge Backend - API.genruntimeconfig.cache
+C:\Users\cmacedo\Desktop\Projetos\Challenge Backend - API\Challenge Backend - API\obj\Debug\net6.0\ref\Challenge Backend - API.dll
